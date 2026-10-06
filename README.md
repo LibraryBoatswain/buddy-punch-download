@@ -86,3 +86,14 @@ Third-party software/service, all rights belong to the original authors and trad
 <sub>Third-party software/service, all rights belong to the original authors. Unofficial listing for Buddy Punch.</sub>
 
 </div>
+
+
+## More links
+
+- 🌐 **[Visit Buddy Punch on SOFTGIT](https://softgit.pro/p/buddy-punch)** — the full listing.
+- 📄 **[Buddy Punch web page](https://libraryboatswain.github.io/buddy-punch-download/)** — standalone info page.
+- 🗂️ [More Business software](https://softgit.pro/category/business)
+- 🏠 [SOFTGIT home](https://softgit.pro) · [All apps](https://softgit.pro/apps)
+- 🔒 [Verify a download (SHA-256)](https://softgit.pro/security)
+
+> Unofficial listing for Buddy Punch. Third-party software; all rights belong to the original authors.
